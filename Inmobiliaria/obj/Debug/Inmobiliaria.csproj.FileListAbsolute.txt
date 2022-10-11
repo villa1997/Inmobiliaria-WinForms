@@ -1,0 +1,10 @@
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csprojAssemblyReference.cache
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Form1.resources
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Properties.Resources.resources
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.GenerateResource.cache
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+C:\Users\henao\OneDrive\Escritorio\c#\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
